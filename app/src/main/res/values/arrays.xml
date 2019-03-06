@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_type_Options">
+        <item>@string/pref_popular_lable</item>
+        <item>@string/pref_topRated_lable</item>
+        <item>@string/pref_favourite_lable</item>
+    </array>
+    <array name="pref_type_values">
+        <item>@string/pref_popular_value</item>
+        <item>@string/pref_Top_Rated_value</item>
+        <item>@string/pref_favourite_value</item>
+    </array>
+
+</resources>
